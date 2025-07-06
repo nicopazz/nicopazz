@@ -18,8 +18,12 @@
 - 📌 Mini sistemas CRUD para practicar
 - 📌 Proyectos web con React + Node (del curso MERN)
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nicopazz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nicopazz) 
+
+
 ## 📫 Contacto
 
 - 📍 San Miguel de Tucumán, Argentina  
-- 📧 [nicopaz.dev@gmail.com](mailto:nicopaz.dev@gmail.com)
+-  📫 Puedes contactarme a través de mi email: nicopazmalizia@gmail.com o conectarte conmigo en LinkedIn.
 
